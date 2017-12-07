@@ -1,6 +1,7 @@
 # Base Project
 [![Build Status](https://travis-ci.org/MomentaryChen/BaseProject.svg?branch=master)](https://travis-ci.org/MomentaryChen/BaseProject)
 [![codecov](https://codecov.io/gh/MomentaryChen/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/MomentaryChen/BaseProject)
+[![codecov](https://codecov.io/gh/MomentaryChen/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/MomentaryChen/BaseProject)
 
 ## Structure
 ```
